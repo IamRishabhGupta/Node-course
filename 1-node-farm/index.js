@@ -32,7 +32,7 @@ fs.readFile('./starter/txt/start.txt', 'utf-8', (err, data) => {
 
 });
 
-console.log("asyn calling");
+// console.log("asyn calling");
 
 // as we can se ein the terminal the call back function is called back later after the excetution of the cosole.log 
 
